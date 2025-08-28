@@ -14,5 +14,6 @@
     <br>
     <a href="pg1.php">PG1</a>
     <a href="pg2.php">PG2</a>
+    <a href="pg3.php">PG3</a>
 </body>
 </html>
